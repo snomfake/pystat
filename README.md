@@ -1,4 +1,4 @@
-# pyfetch 🐍
+# pystat 🐍
 A small Pyton script to showing basic system information and your favourite snake.
 
 <img align="center" src="screenshot.png">
